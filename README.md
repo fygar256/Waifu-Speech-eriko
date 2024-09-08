@@ -37,4 +37,5 @@ Activate debug mode if the error persists to view the error log. Don't forget to
 
 ### Modify (customized.)
 - Linux
+  
   got Waifu-Speech can take input from text file, when Japanese only. by fygar256.
