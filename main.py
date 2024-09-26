@@ -12,7 +12,7 @@ try:
 except:
     print("[Failed] to import speech_recognition API module could not be done.")
 
-sid=1
+sid=0  # 四国めたん、 あまあま
 debug='n'
 
 class AudioToText:
