@@ -38,4 +38,4 @@ Activate debug mode if the error persists to view the error log. Don't forget to
 ### Modify (customized.)
 - Linux
   
-  got Waifu-Speech takes input from Japanese text file and renamed to 'naoko.py', by fygar256.
+  got Waifu-Speech takes input from Japanese text file and renamed to 'eriko.py', by fygar256.
